@@ -46,4 +46,4 @@ Ich bin Physiker (M.Sc.) mit einer Leidenschaft für Data Science, maschinelles 
 
 ---
 
-Danke fürs Vorbeischauen! ✨
+Weitere Inhalte folgen bald – bei Fragen oder Interesse an meinen Projekten freue ich mich auf den Austausch!
