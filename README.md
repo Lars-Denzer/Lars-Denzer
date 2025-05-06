@@ -17,7 +17,7 @@ I'm a Physicist (M.Sc.) with a passion for data science, machine learning, and i
 
 ## Featured Projects:
 1. **Python/LaTeX Demo** – Animating two images to rotate around a virtual "advertising column" for educational or visualization purposes.
-2. **Defect Detection in Images** – Using Python to detect cracks, irregularities, and damages in images (color analysis, signal processing, ML classification).
+2. **Defect Detection in Images** – Using Python to detect cracks, irregularities, and damages in images (color analysis, signal processing, ML classification; currently under development).
 3. **LabView Project** – Currently under development
 
 ## 🌍 Let's connect!
@@ -47,7 +47,7 @@ Ich bin Physiker (M.Sc.) mit einer Leidenschaft für Data Science, maschinelles 
 
 ## 🧪 Geplante Projekte
 1. **Python/LaTeX-Demo** – Zwei Bilder rotieren virtuell um eine „Litfaßsäule“.  
-2. **Risserkennung in Bildern** – Farbwertanalyse, Signalverarbeitung und ML-gestützte Klassifikation von Schäden.  
+2. **Risserkennung in Bildern** – Farbwertanalyse, Signalverarbeitung und ML-gestützte Klassifikation von Schäden; in Entwicklung  
 3. **LabView-Projekt** – In Entwicklung
 
 ## 🌍 Let's connect!
